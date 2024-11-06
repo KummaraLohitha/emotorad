@@ -79,7 +79,8 @@ Copy code
 npm start
 This will start the frontend .
 
-Access the Dashboard
+Access the Dashboard by  Local:http://localhost:3000
+  On Your Network:  http://192.168.137.1:3000
 
 Open your browser and go to access the dashboard.
 
