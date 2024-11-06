@@ -1,0 +1,35 @@
+/* Profile.css */
+
+.profile {
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.profile__header {
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+}
+
+.profile__form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.profile__form label {
+  font-weight: bold;
+}
+
+.profile__form input {
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.profile__form button {
+  align-self: flex-end;
+}
