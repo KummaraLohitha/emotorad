@@ -68,7 +68,7 @@ In the backend folder:
 bash
 Copy code
 npm start
-This will start the server on http://localhost:5000 (or the specified port).
+This will start the server on (or the specified port).
 
 Start the Frontend Server
 
@@ -77,11 +77,11 @@ In the frontend folder:
 bash
 Copy code
 npm start
-This will start the frontend on http://localhost:3000.
+This will start the frontend .
 
 Access the Dashboard
 
-Open your browser and go to http://localhost:3000 to access the dashboard.
+Open your browser and go to access the dashboard.
 
 Folder Structure
 arduino
@@ -140,9 +140,9 @@ License
 Distributed under the MIT License. See LICENSE for more information.
 
 Contact
-Your Name - Your Email
+KUMMARA LOHITHA- lkummara@gitam.in
 
-Project Link: https://github.com/your-username/ev-dashboard
+
 
 Feel free to personalize this README with your specific details, and update any paths or descriptions that differ for your project setup. This README will help others (and future you!) understand how to set up, run, and contribute to the project.
 
